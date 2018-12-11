@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "localhost",
+            "server": "http://localhost:7046",
+            "serverInstance": "DynamicsNAV110R10",
+            "authentication": "Windows",
+            "startupObjectId": 22
+        }
+    ]
+}
